@@ -1,0 +1,10 @@
+{ '_id': '1', 'name': 'Ron','age': 20, 'color': 'blue', 'description': 'I love quora'}
+{ '_id': '2', 'name': 'Hermione','age': 21, 'color': 'red', 'description':'I am the happiest person'}
+{ '_id': '3', 'name': 'Harry','age': 22, 'color': 'green', 'description': 'Ganesh Chaturthi is coming'}
+{ '_id': '4', 'name': 'James','age': 30, 'color': 'yello', 'description': 'Today is Bharat Bandh'}
+{ '_id': '5', 'name': 'Lily','age': 28, 'color': 'black', 'description': 'I love quora'}
+{ '_id': '6', 'name': 'Voldemort','age': 100, 'color': 'white', 'description': 'I love quora'}
+{ '_id': '7', 'name': 'Sirius','age': 50, 'color': 'white', 'description': 'I am the favorite character'}
+{ '_id': '8', 'name': 'Snape','age': 40, 'color': 'golden', 'description': 'I am the favorite character'}
+{ '_id': '9', 'name': 'Draco','age': 60, 'color': 'pink', 'description': 'I am a bully'}
+{ '_id': '10', 'name': 'Dumbledore','age': 80, 'color': 'black', 'description': 'I have a huge beard'}
